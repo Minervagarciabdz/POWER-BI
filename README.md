@@ -13,3 +13,5 @@ de forma resumida la información de el total de ventas y de utilidad, tambíen 
 así como una vista de detelle de la informacion de los gráficos, y finalmente se agregué una hoja con un visualización de mapa que permite 
 identificar el comportamiento de las ventas por región.
 
+![Captura de pantalla 2024-08-20 154941](https://github.com/user-attachments/assets/fc738a49-b88d-4c25-a9e5-0a198c815266)
+
